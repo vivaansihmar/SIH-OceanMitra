@@ -5,3 +5,4 @@ Role:
 Tanvi Choudhary - Frontend
 Pari Goel - Frontend /n
 Vivaan sihmar - Machine learning 
+Nishtha Gupta-Backend
