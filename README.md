@@ -11,3 +11,5 @@ Vivaan sihmar - Machine learning <br>
 
 Nishtha Gupta-Backend<br> 
 
+Kriti Gupta - Backend <br>
+
