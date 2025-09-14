@@ -1,8 +1,13 @@
 # SIH-OceanMitra
 SIH project 
 
-Role:
-Tanvi Choudhary - Frontend
-Pari Goel - Frontend /n
-Vivaan sihmar - Machine learning 
-Nishtha Gupta-Backend
+Role:<br> 
+
+Tanvi Choudhary - Frontend<br> 
+
+Pari Goel - Frontend <br> 
+
+Vivaan sihmar - Machine learning <br> 
+
+Nishtha Gupta-Backend<br> 
+
